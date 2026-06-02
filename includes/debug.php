@@ -5,7 +5,7 @@
 // Zeigt POST-, REQUEST- und SESSION-Daten an
 // ----------------------------------------
 
-$debug = "ja";
+$debug = "nein";
 
 session_start();
 
