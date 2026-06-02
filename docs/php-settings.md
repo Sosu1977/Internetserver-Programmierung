@@ -103,7 +103,7 @@ phpinfo();
 Access through:
 
 ```text
-http://localhost/index.php
+http://localhost/phpinfo.php
 ```
 
 This page can be used to verify that PHP is correctly installed and configured.

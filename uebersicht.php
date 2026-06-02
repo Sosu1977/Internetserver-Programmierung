@@ -2,13 +2,11 @@
 
 // ----------------------------------------
 // Projekt: Geburtstags-Wunschzettel
-// Datei: index.php
-// Aufgabe: 1. Seitenaufruf
+// Datei: uebersicht.php
+// Aufgabe: 3. Seitenaufruf
 // Autor: Sönmez Süner
 // Beschreibung:
-// Eingabe von bis zu drei Wünschen.
-// Mindestens ein Wunsch muss ausgefüllt sein.
-// Sonderzeichen sind nicht erlaubt.
+// Ausgabe aller Wünsche und Lieferdaten.
 // ----------------------------------------
 
 include 'includes/debug.php';
