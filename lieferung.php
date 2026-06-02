@@ -1,5 +1,4 @@
 <?php
-<?php
 
 // ----------------------------------------
 // Projekt: Geburtstags-Wunschzettel
