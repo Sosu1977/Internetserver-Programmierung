@@ -127,7 +127,7 @@ Projektpfad:
 
 ---
 
-## Absicherung der Entwicklungsumgebung
+## Sicherheit: Absicherung der Entwicklungsumgebung
 
 Für den Zugriff auf die lokale Entwicklungsumgebung wurde ein Passwortschutz eingerichtet.
 
